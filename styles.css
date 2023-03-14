@@ -1,3 +1,33 @@
-div{
-    border:2pxsolidpowderblue;
-    margin:75px;}
+body{ 
+    background-image: url(imagens/fundo2.png);
+    background-size: 145px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.fundo1{
+    background-image: url(imagens/fundo.png);
+    background-size: 145px;
+    margin: 0 auto;
+    width: 80%;
+ }
+header{
+    padding-top: 2%;
+    display: flex;
+    align-items: baseline;
+}
+
+.capa{
+    padding-top: 2.1%;
+    max-width: 600px;
+    height: 500px;
+    
+}
+
+.link{
+    padding-left: 62%;
+}
+
+h4{
+    text-align: center;
+}
