@@ -7,7 +7,7 @@ body{
 
 .fundo1{
     background-image: url(imagens/fundo.png);
-    background-size: 145px;
+    background-size: 130px;
     margin: 0 auto;
     width: 80%;
  }
@@ -25,7 +25,7 @@ header{
 }
 
 .link{
-    padding-left: 62%;
+    padding-left: 53%;
 }
 
 h4{
